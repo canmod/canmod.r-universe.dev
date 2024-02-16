@@ -1,0 +1,14 @@
+[
+    {
+        "package": "macpan2",
+        "url": "https://github.com/canmod/macpan2"
+    },
+    {
+        "package": "oor",
+        "url": "https://github.com/canmod/oor"
+    },
+    {
+        "package": "macpan2helpers",
+        "url": "https://github.com/canmod/macpan2helpers"
+    }
+]
