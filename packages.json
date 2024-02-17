@@ -10,5 +10,9 @@
     {
         "package": "macpan2helpers",
         "url": "https://github.com/canmod/macpan2helpers"
+    },
+    {
+        "package": "rapiclient",
+        "url": "https://github.com/canmod/rapiclient"
     }
 ]
