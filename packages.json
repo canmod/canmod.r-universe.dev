@@ -14,5 +14,15 @@
     {
         "package": "rapiclient",
         "url": "https://github.com/canmod/rapiclient"
+    },
+    {
+        "package": "iidda.api",
+        "url": "https://github.com/canmod/iidda-tools",
+        "subdir": "R/iidda.api"
+    },
+    {
+        "package": "iidda",
+        "url": "https://github.com/canmod/iidda-tools",
+        "subdir": "R/iidda"
     }
 ]
