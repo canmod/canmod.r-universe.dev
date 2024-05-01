@@ -24,5 +24,10 @@
         "package": "iidda",
         "url": "https://github.com/canmod/iidda-tools",
         "subdir": "R/iidda"
+    },
+    {
+        "package": "iidda.analysis",
+        "url": "https://github.com/canmod/iidda-tools",
+        "subdir": "R/iidda.analysis"
     }
 ]
