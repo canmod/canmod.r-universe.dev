@@ -25,9 +25,5 @@
         "package": "iidda.analysis",
         "url": "https://github.com/canmod/iidda-tools",
         "subdir": "R/iidda.analysis"
-    },
-    {
-        "package": "LBoM.tools",
-        "url": "https://github.com/canmod/LBoM.tools"
     }
 ]
