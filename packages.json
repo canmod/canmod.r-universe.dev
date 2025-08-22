@@ -8,10 +8,6 @@
         "url": "https://github.com/canmod/oor"
     },
     {
-        "package": "macpan2helpers",
-        "url": "https://github.com/canmod/macpan2helpers"
-    },
-    {
         "package": "iidda.api",
         "url": "https://github.com/canmod/iidda-tools",
         "subdir": "R/iidda.api"
@@ -25,5 +21,9 @@
         "package": "iidda.analysis",
         "url": "https://github.com/canmod/iidda-tools",
         "subdir": "R/iidda.analysis"
+    },
+    {
+        "package": "macpan2helpers",
+        "url": "https://github.com/canmod/macpan2helpers"
     }
 ]
